@@ -1,5 +1,5 @@
 # HUSTU(HungryStudent)
-#This application would allow you to view the menu in the dining room for the current day; view the time when people plan to visit the dining room and the current occupancy of the dining room.
+This application would allow you to view the menu in the dining room for the current day; view the time when people plan to visit the dining room and the current occupancy of the dining room.
 
 
 Main functions:
