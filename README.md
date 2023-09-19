@@ -1,5 +1,7 @@
 # HungryStudent
 #This application would allow you to view the menu in the dining room for the current day; view the time when people plan to visit the dining room and the current occupancy of the dining room.
+
+
 Main functions:
 1.View the menu and prices of products in this menu, a built-in purchase calculator that will help you immediately determine the cost of the order.
 2.The ability to specify exactly what you will take from the menu (this should help the canteen workers determine which dish should be made more)
